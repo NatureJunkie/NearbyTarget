@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: Enemy Radar
+## Notes: Displays nearby enemy players or NPCs (legal visual addon)
+## Author: you
+EnemyRadar.lua
