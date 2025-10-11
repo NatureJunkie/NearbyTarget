@@ -219,3 +219,4 @@ end
 
 main:Show()
 DEFAULT_CHAT_FRAME:AddMessage("|cff88ccffNearby Party (Fixed)|r Compact 7-button healing grid with safe targeting loaded.")
+
