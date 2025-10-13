@@ -6,7 +6,6 @@ function Button1()
 end
 function  Button2()
     print("Button2")
-
 end
 function Button3()
     print("Button3")
@@ -78,7 +77,7 @@ function  PButton5()
 
     print("Button5")
 end
-function  Button6()
+function  PButton6()
     print("Button6")
 
 end
