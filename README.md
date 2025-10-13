@@ -190,7 +190,7 @@ Use the Compare button to switch between % and HP.
 
 Click the colored buttons to target and optionally run your own ButtonX function.
 
-Hold both mouse buttons over a row to rotate/move the camera.
+Hold both mouse buttons twice (double click them) over a colorful button to rotate/move the camera.
 
 Enjoy!
 MADE WITH CHATGPT
