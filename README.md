@@ -10,7 +10,7 @@ It works with nameplates, has simple filters, and supports a camera/movement “
 
 ## What this addon does 
 
-- Shows a list of nearby enemies (from visible nameplates).
+- Shows a list of nearby targets (from visible nameplates).
 - Lets you quickly target an enemy with the **colored buttons** on each row.
 - Has a separate **Top Row** that can always show your target, or the lowest HP enemy.
 - Keeps the lowest-HP choice stable (it won’t flicker between same-name mobs).
