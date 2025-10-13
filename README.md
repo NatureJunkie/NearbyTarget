@@ -8,7 +8,7 @@ It works with nameplates, has simple filters, and supports a camera/movement “
 
 ---
 
-## What this addon does (in plain English)
+## What this addon does 
 
 - Shows a list of nearby enemies (from visible nameplates).
 - Lets you quickly target an enemy with the **colored buttons** on each row.
