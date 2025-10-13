@@ -33,10 +33,9 @@ It works with nameplates, has simple filters, and supports a camera/movement “
 ---
 
 ## Installation
-
-1. Create a folder named `NearbyTargets` inside your `Interface\AddOns` directory.
-2. Put the addon files in that folder.
-3. Make sure the folder name matches the `.toc` name.
+1. Download and UnZip the file
+2. Move the folder `NearbyTargets` to your `Interface\AddOns` directory.
+3. Create your own Functions for the Buttons in Buttons.lua "CastSpellByName("Hunter's Mark") to cast a spell"
 4. Launch the game and enable the addon in the character AddOns menu.
 
 > This addon is written for **Vanilla 1.12** UI API.
