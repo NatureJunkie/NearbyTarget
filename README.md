@@ -110,7 +110,7 @@ When two enemies have the same name (e.g., two “Defias Thugs” nearby), the a
 
 ## Camera/movement click-through (hold both buttons)
 
-- On any row, double click **both mouse buttons** briefly.
+- On any row, double click **both mouse buttons** two tap.
 - That whole row becomes **temporarily click-through**, so your camera/character movement gets the input immediately.
 - Releasing both mouse buttons **automatically re-enables** the row’s buttons.
 
