@@ -23,7 +23,7 @@ It works with nameplates, has simple filters, and supports a camera/movement “
 
 - **Top Row** is independent from the main list.
 - **Two modes** for the Top Row:
-  - **Target→Top**: show your current target first; if no target, show lowest.
+  - **Target→Top**: show your current target first; if no target, show lowest hp either by % or by Raw HP.
   - **Lowest→Top** (default): show the overall lowest; if it shares the same name as your target, your target is prioritized for the Top Row.
 - **Percent or Raw HP** comparison.
 - **Filters** by unit type (Beast, Humanoid, etc.).
@@ -44,7 +44,7 @@ It works with nameplates, has simple filters, and supports a camera/movement “
 
 ## How to use
 
-- **Open/close**: type `/nt` or click the **X** on the top bar.
+- **Open/close**: type `/nt`
 - **Move the window**: drag the top bar.
 - **Rotate/move camera through the list**: press and hold **both mouse buttons** on any row for a short moment. The row turns click-through so the camera/character movement receives the input. Release both buttons to restore normal clicks.
 
