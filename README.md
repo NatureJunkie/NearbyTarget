@@ -4,7 +4,7 @@ A lightweight helper that shows nearby enemies in a simple list, with a dedicate
 - your **current target** (if you want it pinned), or
 - the **lowest-health** enemy.
 
-It works with nameplates, has simple filters, and supports a camera/movement “click-through” gesture by holding both mouse buttons on a row.
+It works with nameplates, has simple filters, and supports a camera/movement “click-through” gesture by holding both mouse buttons on a colorful button (double click both right and left click ).
 
 ---
 
