@@ -15,7 +15,7 @@ It works with nameplates, has simple filters, and supports a camera/movement “
 - Has a separate **Top Row** that can always show your target, or the lowest HP enemy.
 - Keeps the lowest-HP choice stable (it won’t flicker between same-name mobs).
 - Can include your **pet’s target** even when its nameplate is not visible (as a gray “sticky” row).
-- Lets you **rotate/move the camera** while the UI is under your mouse by - any colorful button, double click **both mouse buttons** two tap them. Once to make the button click through and another to actually move
+- Lets you **rotate/move the camera** while the UI is under your mouse by - any colorful button, double click **both mouse buttons** two tap them. Once to make the button click through and another to actually move (the gray area is still clickthrough without any double clicks)
 
 ---
 
