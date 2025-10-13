@@ -149,7 +149,7 @@ You’ll also see small chat messages when toggling compare mode or the Top Row 
 ## Customization hooks
 
 You can define these in your own macro file or another addon:
- 
+ ```lua
 function Button1() end
 function Button2() end
 function Button3() end
@@ -157,7 +157,7 @@ function Button4() end
 function Button5() end
 function Button6() end
 function Button7() end
- 
+ ```
 They will run after the addon selects the row’s target by name.
 
 Saved settings
