@@ -1,9 +1,0 @@
-## Interface: 11200
-## Title: Nearby Target
-## Notes: Displays nearby enemy players or NPCs  
-## Author: NatureJunkie + ChatGPT Ver 1.0.3
-## SavedVariables: NearbyTargetsTypeCache, NearbyTargetsSlotOrder, NearbyTargetsFilterSettings, NearbyTargetsPersistentSlots
-Buttons.lua
-NearbyTarget.lua
-PartyHealingGrid.lua
-
